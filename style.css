@@ -1,0 +1,34 @@
+h1 {
+text-shadow: red 0px 0px 2px;
+color: black;
+font-size: 50px;
+text-align: center;
+background-color: white;
+}
+figcaption {
+    font-family: 'Satisfy', cursive;
+    font-weight: bold;
+    text-align: center;
+}
+img {
+    height: 150px;
+    width: 200px;
+}
+.flag-divs {
+display: inline-block;
+margin: 50px;
+padding: 10px;
+padding-top: 15px;
+}
+figure {
+    display: inline;
+}
+body {
+    background-color: #e2e4e5;
+}
+
+.flag-divs:hover {
+    background-color: white;
+    cursor: pointer;
+    color: #ed5c46;
+}
